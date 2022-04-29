@@ -1,5 +1,7 @@
 # Twitter Clone
 This is my Twitter Clone Project you can see the [Live Deployment](https://twitter-clone-kristian.herokuapp.com/)
+
+<img src="https://user-images.githubusercontent.com/63208682/165980520-21e2e140-101a-4841-86bb-99efa165ddff.PNG" width="1068">
 # Technologies Used
  - Django
  - HTML
@@ -11,4 +13,4 @@ This is my Twitter Clone Project you can see the [Live Deployment](https://twitt
   - Users can edit tweets
   - Users can delete tweets
   - Users can like tweets!
-  - [Capturetwitter](https://user-images.githubusercontent.com/63208682/165980520-21e2e140-101a-4841-86bb-99efa165ddff.PNG)
+ 
